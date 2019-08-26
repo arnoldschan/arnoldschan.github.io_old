@@ -1,0 +1,15 @@
+---
+title: Natural Language Processing
+subtitle: NLP
+layout: default
+modal-id: 1
+date: 2019/8/1
+img: NLP.jpg
+thumbnail: NLP-thumbnail.png
+alt: image-alt
+project-date: August 2019
+client: Start Bootstrap
+category: NLP
+description: Attempt to obtain NLP certificate on Udemy
+
+---
