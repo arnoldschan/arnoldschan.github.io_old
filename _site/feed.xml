@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arnold S Chan</title>
+    <description>Arnold Samuel Chan, Data Engineer, Data Scientists. Portfolio Website</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 15 Sep 2019 23:44:30 -0500</pubDate>
+    <lastBuildDate>Sun, 15 Sep 2019 23:44:30 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Natural Language Processing</title>
+        <description>
+</description>
+        <pubDate>Thu, 01 Aug 2019 00:00:00 -0500</pubDate>
+        <link>/nlp/2019/08/01/project-1/</link>
+        <guid isPermaLink="true">/nlp/2019/08/01/project-1/</guid>
+        
+        
+        <category>NLP</category>
+        
+      </item>
+    
+  </channel>
+</rss>
